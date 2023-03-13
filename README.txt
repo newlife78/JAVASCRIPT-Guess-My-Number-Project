@@ -1,5 +1,14 @@
 GUESS MY NUMBER Project:
 
+Rules and Notes:
+   1. Insert a number in the input field
+   2. Press 'Check!' btn
+   3. See the message in the right side with: '📉 Too low!' or '📈 Too high!'
+   4. When you pick the correct number a message will be displayed with ''🎉 Correct Number!' and some styles will change
+   5. A record will be stored in 'Highscore' (if you refresh the page this 'Highscore' will be reset)
+   6. To play again click the 'Again!' btn and try to bet your own score!
+
+
 ____________________________________________________________________________________________________________________________
 
 Start:
